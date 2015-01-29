@@ -15,8 +15,6 @@ git checkout <branch-name>
 
 * `branch iphone` As you can guess an iPhone6 portrait template.
 
-* `branch phone` **320x480** A stating template for smaller phones.
-
 * `branch icon-ios` iPhone and iPad icon templates from [bjango](http://bjango.com/)
 
 
